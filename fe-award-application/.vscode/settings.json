@@ -1,0 +1,12 @@
+{
+  "files.eol": "\n",
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "files.associations": {
+    "*.css": "css",
+    "css": "css"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "npm-scripts.showStartNotification": false
+}
